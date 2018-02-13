@@ -1,2 +1,0 @@
-# myservicenow
-My ServiceNow instance 
